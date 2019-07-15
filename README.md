@@ -1,25 +1,23 @@
-# Device Tree for Xiaomi Redmi Note 4 & 4x (Mido)
-
-Kernel source: "https://github.com/TheScarastic/android_kernel_xiaomi_msm8953"
+# Device Tree for Samsung Galaxy J4+ (Plus)
 
 ## Spec Sheet
 
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
-| CPU                     | Octa-core 2.0 GHz Cortex-A53      |
-| Chipset                 | Qualcomm MSM8953 Snapdragon 625   |
-| GPU                     | Adreno 506                        |
-| Memory                  | 2/3/4 GB                          |
-| Shipped Android Version | 6.0.1                             |
-| Storage                 | 32/64 GB                          |
-| MicroSD                 | Up to 256 GB                      |
-| Battery                 | 4100 mAh (non-removable)          |
-| Dimensions              | 151 x 76 x 8.5 mm                 |
-| Display                 | 1920x1080 pixels, 5.5 (~401 PPI)  |
+| CPU                     | Quad-core 1.4 GHz Cortex-A53      |
+| Chipset                 | Qualcomm MSM8917 Snapdragon 425   |
+| GPU                     | Adreno 308                        |
+| Memory                  | 2/3 GB	                          |
+| Shipped Android Version | 8.1.0                             |
+| Storage                 | 16/32 GB                          |
+| MicroSD                 | Up to 512 GB                      |
+| Battery                 | 3300 mAh (non-removable)          |
+| Dimensions              | 161.4 x 76.9 x 7.9 mm             |
+| Display                 | 1480x720 pixels, 6.0 (~274 PPI)   |
 | Rear Camera             | 13 MP, LED flash                  |
 | Front Camera            | 5 MP                              |
-| Release Date            | January 2017                      |
+| Release Date            | October 2018                      |
 
 ## Device Picture
 
-![Redmi Note 4](http://i01.appmifile.com/webfile/globalimg/7/537557F3-A4F1-2490-E9D3-138B2A11DBF6.png "Redmi Note 4")
+![Galaxy J4+](https://smsoptimizedimages.azureedge.net/0017658_samsung-galaxy-j4-plus-16gb-siyah-sm-j415f_415.jpeg "Galaxy J4+")
